@@ -114,21 +114,30 @@ Her öğrenci oluşturulmuş ödev linki vasıtasıyla ödevi üzerine alır ve 
 Her öğrenci yapılan ödev için temel GitHub özelliklerini (pull, commit, push) tekrar tekrar  kullanmak zorunda kaldığından Git özelliklerini pekiştirerek öğrenecektir.
 Github Classroom nasıl açılır, ödevler nasıl oluşturulur [buradan](https://classroom.github.com/videos#ChA_zph7aao) bakabilirsiniz.
 
+## KODLUYORUZ EĞİTMENİ VE EĞİTİM ASİSTANI İÇİN YAPILACAKLAR LİSTESİ
 
+### Bootcamp’in ilk günü yapılacaklar:
 
+* İlk derse 1 saat önceden gidip sınıfın teknik kontrollerinin yapılması
+* Katılımcıları, yukarıda dikkat edilmesi belirtilen Kodluyoruz Etik Kodu ile ilgili bilgilendirmek 
+* Katılımcıları, ders işleyiş metoduna dair bilgilendirmek
+* Yoklama listesinin doldurulması 
+* Katılımcıların birbirleriyle yardımlaşabilmesi ve her türlü sorusunu sorabileceği bir iletişim grubu kurulması (Telegram) 
+* Toplu fotoğraflar çekilmesi
+* Gençlerin, gönderdiğimiz değerlendirme formlarını eğer doldurmadılarsa sadece 5-10 dakikalarını ayırıp doldurmaları. Aynı form eğitim tamamlanınca ve bir süre daha olmak üzere toplam 3 kez doldurulacak (zamanı gelince yeniden göndereceğiz). Amacımız, gençlerin profesyonel gelişimlerini takip etmek. Bu, Kodluyoruz’un etkisini gösterebilmesi ve destek bulup daha çok genci desteklemeye devam edebilmesi için çok kritik.
 
+### Her gün yapılacaklar:
 
+* Yoklama listesi - mutlaka! (Yoklama listesini seninle Drive üzerinden paylaşacağız)
 
+* Bolca fotoğraf :)
 
+* Sosyal medyadan Kodluyoruz’u tag’leyerek paylaşımlara teşvik edilmesi 
 
+* Eğitim asistanıyla beraber gerekirse yiyecek içecek konularının organize edilmesi
 
+* Ödevlerin mutlaka GitHub Classroom üzerinden takip edilmesi
 
+### Bootcamp ortasında yapılacak:
 
-
-**KODLUYORUZ EĞİTMENİ VE EĞİTİM ASİSTANI İÇİN YAPILACAKLAR LİSTESİ**
-**Bootcamp’in ilk günü yapılacaklar:**
-İlk derse 1 saat önceden gidip sınıfın teknik kontrollerinin yapılmasıKatılımcıları, yukarıda dikkat edilmesi belirtilen Kodluyoruz Etik Kodu ile ilgili bilgilendirmek Katılımcıları, ders işleyiş metoduna dair bilgilendirmekYoklama listesinin doldurulması Katılımcıların birbirleriyle yardımlaşabilmesi ve her türlü sorusunu sorabileceği bir iletişim grubu kurulması (Telegram) Toplu fotoğraflar çekilmesiGençlerin, gönderdiğimiz değerlendirme formlarını eğer doldurmadılarsa sadece 5-10 dakikalarını ayırıp doldurmaları. Aynı form eğitim tamamlanınca ve bir süre daha olmak üzere toplam 3 kez doldurulacak (zamanı gelince yeniden göndereceğiz). Amacımız, gençlerin profesyonel gelişimlerini takip etmek. Bu, Kodluyoruz’un etkisini gösterebilmesi ve destek bulup daha çok genci desteklemeye devam edebilmesi için çok kritik.
-**Her gün yapılacaklar:**
-Yoklama listesi - mutlaka! (Yoklama listesini seninle Drive üzerinden paylaşacağız)Bolca fotoğraf :)Sosyal medyadan Kodluyoruz’u tag’leyerek paylaşımlara teşvik edilmesi Eğitim asistanıyla beraber gerekirse yiyecek içecek konularının organize edilmesiÖdevlerin mutlaka GitHub Classroom üzerinden takip edilmesi
-**Bootcamp ortasında yapılacak:**
 Kodluyoruz’dan gençlere “2019 Bootcamp Katılımcılarına Yönelik Ara Değerlendirme Formu” gönderilecek. Bunun senin tarafından öğrencilere hatırlatılması önemli.
