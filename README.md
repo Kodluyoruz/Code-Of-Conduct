@@ -5,15 +5,6 @@ Bu doküman, Kodluyoruz'un tüm bootcamp'lerinde geçerli olan; Öğrenci - Kodl
 ## Neden bir Code of Conduct'a İhtiyaç Duyuyoruz?
 Bu Davranış Kuralları (Code of Conduct) rahat, huzurlu, korkusuz ve üretken bir topluluk inşaa edebilmemize yardımcı olmak için tasarlanmıştır. Bu Davranış Kurallarının (Code Of Conduct) amacı; topluluğumuza bir takım gereksiz kurallar yüklemek, "kötü" insanlara cezalar uygulamak ya da geçmişte bir takım yanlış yapılmış uygulamaları düzeltmeye çalışmak değildir. Burada yazılmış kurallara uyulmayan ve/veya daha kötü şartlarda çalışmak durumunda kalmış insanlarla bir araya geldiğimizde de yine harika bir topluluk ortaya koyabilmeyi amaçlamaktadır.
 
-
-## KODLUYORUZ EĞİTMEN REHBERİ
-
-Kodluyoruz Eğitmeni olarak aramıza katıldığın/katılmak üzere olduğun için çok heyecanlıyız, gençlerin geleceğine ve sektöre değer katmaya istekli, bizimle aynı motivasyona sahip ekip arkadaşlarıyla bir araya gelmek bizi çok mutlu ediyor. 
-
-Hem bizi daha yakından tanıman, hem de eğitim sürecinde sana yardımcı olması için hazırladığımız Eğitmen Rehberi’nin içinde “Kodluyoruz Etik Kodu” olarak isimlendirdiğimiz bu davranış kurallarını ve eğitim boyunca yapman gerekenlerin bulunduğu “Yapılacaklar Listesi’ni bulacaksın.
-
-Bu kitapçık, eğitimini en verimli şekilde yürütmek ve katılımcılarla sağlıklı bir iletişim kurabilmek hakkındaki soru işaretlerini gidermek için hazırlandı. Eğitim sürecine dair herhangi bir konuda başka bir soru işaretin olursa sormaktan çekinme!
-
 ## KODLUYORUZ ETİK KODU
 
 ### 1) Ayrımcılığı reddetmek,
@@ -80,64 +71,3 @@ Eğitmenler ve öğrenciler çalıştıkları alanlardaki etkinlikleri Meetup ve
 ### 16) Eğitmenler ve öğrenciler bol bol KodluyoruzLab, blog ve akademik yazı okurlar, KodluyoruzLab’de yazarlar,
 
 Eğitmenler ve öğrenciler okumanın önemi konusunda hemfikir olmalıdırlar. Eğitmenin ilk derste kendi kaynaklarını ve bu konudaki yöntemlerini öğrencilerle paylaşması, daha önce bu konuda herhangi bir deneyimi olmamış kişiler için faydalı olacaktır. Akademik kaynak okumak, dinlenmek amaçlı dahi yapılan bir eylemdir. Öğrenciler, KodluyoruzLab isminde, Kodluyoruz mezunlarının her hafta blog yazıları yazdığı programa dahil olup yazı yazmalarının kariyerleri için ne kadar önemli olduğunun farkında olmalıdır.
-
-## KODLUYORUZ GITHUB KULLANIMI
-
-### Eğitmenler, derste mutlaka GitHub Classroom kullanmak zorundadır. 
-
-Eğitmen, öğrencilerin GitHub hesapları yoksa **mutlaka** oluşturmalarını sağlamalıdır. (Detaylar için [Gihub Classroom Nedir?](https://medium.com/kodluyoruz/github-classroom-nedir-473a5d371c4f?source=collection_home---2------4-----------------------) yazımıza bakabilirsiniz. Örnek GitHub Classroom kullanımı için: https://github.com/Frontend-Bootcamp-Istanbul)
-
-Github Classroom, GitHub’ın organizasyon yapısına çok benzer bir yapıyı kullanır. GitHub’ın bütün özelliklerinin kullanılabilmesinin yanında sağladığı araçlar ile hem verilen ödevlerin hem de öğrencilerin takibinin yapılabilmesini oldukça kolaylaştırır. Eğitmenlerimizin bootcamp süresince bu altyapıyı kullanmalarının öğrencilerin gelişimi ve GitHub’larının doldurulması için çok önemli olduğunu düşünüyoruz.
-
-### Derslerde nasıl kullanılmalı?
-
-Eğitmen tarafından dersin nasıl anlatılacağı tasarlanırken GitHub Classroom’un sürece dahil edilmesi gerekir. Konular anlatılırken geliştirilen her bir proje için Classroom’da bir repo oluşturulmalıdır. Öğrencilerin derste anlatılan konuları tekrar edebilmeleri için her bir yeni konu veya projeye yeni bir özellik eklendiğinde yapılan değişiklikliğin tanımıyla birlikte commit edilmelidir.
-
-Anlatılan bir konunun hemen ardından öğrencilere sınıf içerisinde küçük ödevler verilmesi hafta sonunda verilen ödevlerin yapılmasını sağlayacağı gibi ilaveten pek çok faydası olacaktır. En büyük faydası sınıftaki herkesin elini kodla kirletmek zorunda kalmasıdır. Küçük ödevler yapılırken alınabilecek hataların bir çoğuyla karşılaşan öğrenciler hem birbirlerine yardım ederek daha çok kaynaşacaklar hem de sık karşılaşılan pek çok hatayı çözdükleri için özgüvenleri artacak ve ödev yapmaya daha motive olacaklardır.
-
-**Örnek senaryo:**
-Eğitmen derste döngüleri ve koşulları anlattı, anlaşılması için basit bir proje gerçekleştirdi ve Classroom içerisinde oluşturulmuş repoya yapılan değişikliklerle birlikte gönderdi. Ardından eğitmen gençlere döngü ve koşulları kullanarak yapabilecekleri çok küçük bir ödev (yaklaşık 10-15 dakikalık) vermelidir. Bu ödev, ders süresince geliştirilen projenin bir parçası da olabilir.
-
-### Büyük ödevlerde nasıl kullanılmalı?
-
-Haftalık ders tamamlanırken eğitmen o haftanın ödevini Classroom içerisinde tanımlar. Ödevin ReadMe dosyasında öğrencilere yol gösterecek açıklıkta ödevde ne beklendiği ve yardımcı olabilecek kaynaklar önerilir.
-![img](image/image-01.png)
-
-
-
-Her öğrenci oluşturulmuş ödev linki vasıtasıyla ödevi üzerine alır ve geliştirmeye başlar. Bütün bu süreçlerin Classroom ile yapılmasıyla eğitmen ödevlerdeki değişiklikleri görebilir ve onlara yorum ekleyebilir. (Klasik GitHub özellikleri).
-
-![img](image/image-02.png)
-
-
-
-Her öğrenci yapılan ödev için temel GitHub özelliklerini (pull, commit, push) tekrar tekrar  kullanmak zorunda kaldığından Git özelliklerini pekiştirerek öğrenecektir.
-Github Classroom nasıl açılır, ödevler nasıl oluşturulur [buradan](https://classroom.github.com/videos#ChA_zph7aao) bakabilirsiniz.
-
-## KODLUYORUZ EĞİTMENİ VE EĞİTİM ASİSTANI İÇİN YAPILACAKLAR LİSTESİ
-
-### Bootcamp’in ilk günü yapılacaklar:
-
-* İlk derse 1 saat önceden gidip sınıfın teknik kontrollerinin yapılması
-* Katılımcıları, yukarıda dikkat edilmesi belirtilen Kodluyoruz Etik Kodu ile ilgili bilgilendirmek 
-* Katılımcıları, ders işleyiş metoduna dair bilgilendirmek
-* Yoklama listesinin doldurulması 
-* Katılımcıların birbirleriyle yardımlaşabilmesi ve her türlü sorusunu sorabileceği bir iletişim grubu kurulması (Telegram) 
-* Toplu fotoğraflar çekilmesi
-* Gençlerin, gönderdiğimiz değerlendirme formlarını eğer doldurmadılarsa sadece 5-10 dakikalarını ayırıp doldurmaları. Aynı form eğitim tamamlanınca ve bir süre daha olmak üzere toplam 3 kez doldurulacak (zamanı gelince yeniden göndereceğiz). Amacımız, gençlerin profesyonel gelişimlerini takip etmek. Bu, Kodluyoruz’un etkisini gösterebilmesi ve destek bulup daha çok genci desteklemeye devam edebilmesi için çok kritik.
-
-### Her gün yapılacaklar:
-
-* Yoklama listesi - mutlaka! (Yoklama listesini seninle Drive üzerinden paylaşacağız)
-
-* Bolca fotoğraf :)
-
-* Sosyal medyadan Kodluyoruz’u tag’leyerek paylaşımlara teşvik edilmesi 
-
-* Eğitim asistanıyla beraber gerekirse yiyecek içecek konularının organize edilmesi
-
-* Ödevlerin mutlaka GitHub Classroom üzerinden takip edilmesi
-
-### Bootcamp ortasında yapılacak:
-
-Kodluyoruz’dan gençlere “2019 Bootcamp Katılımcılarına Yönelik Ara Değerlendirme Formu” gönderilecek. Bunun senin tarafından öğrencilere hatırlatılması önemli.
